@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -101,9 +101,840 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: swampDecoration_2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 309
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a6e6d5fb144dca8db27419c7ce1c2
+      internalID: 451058647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 309
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec9366c590c45a2a4e577ca86a7bbf
+      internalID: -183562801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 309
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2376cceea3390444295a90b06bb1526e
+      internalID: 205046348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 309
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e254a23c11e64ec2a19fe51b2649231
+      internalID: -2138622715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 309
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c502380f245240f0b30d468a4bc3974
+      internalID: 1212369870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 309
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c8298af246443caadaf3912f8d230
+      internalID: -140616800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 308
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34342ac81ef3948039073e2678672931
+      internalID: 289169982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 302
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d7aeab841648589caa0e7413f80ba
+      internalID: 912272639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc828a8d676d452592d61fac71429a2
+      internalID: -1842640355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 245
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf909fcbc2144d0f9ab8e85026945a9
+      internalID: -10304704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 245
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8fdb23f2fbf4cd6987b7fb09464513
+      internalID: -220588383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 245
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c65491a71ec4bd2b14870e39ff81c1
+      internalID: -1588126028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 245
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9769deed1367490285a11683f084a45
+      internalID: -957967926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f9091ad3fc4c8fa5231b61fc7bcb8
+      internalID: 1200525016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 257
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a4de783f4a4a5fa78f4a88102d38c
+      internalID: -1101793827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 197
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0446960d960fd4f8eb82fc851b08bba9
+      internalID: 223267870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0744b813a743d6a1ebab4339021a2
+      internalID: 1008626481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 197
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57a2b6b825404b63b6c6fb9e081b081
+      internalID: 1444151446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 206
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d4089f66564e76a4ad6fe9f64cff1
+      internalID: -873447226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a881a959221468fba768f03f56a556
+      internalID: 191798268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 149
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707cd2fc21eef41c48ffb2dfdadca84f
+      internalID: -76202672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976132370abab47a29c988a4a28349ac
+      internalID: -1654271587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 149
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e241acaef05449298fc106197ab5bd
+      internalID: -374385225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 149
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b15e09d5b67472ea979cec12220ecb
+      internalID: -1717326506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 157
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2acc02fe2f4f465fa72687bed047ffa
+      internalID: -613548523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 159
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b38d12b28c49e4a1a88d279459f98
+      internalID: 2109642965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 101
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0150ed6f2a6694a8a9d10e3c07631cc9
+      internalID: 1238848608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 101
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710d908ab1d324059bd4d907dd07df14
+      internalID: 901116136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 101
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c08dcee1c1664f28ba6de83cea65121
+      internalID: 1501058013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 21
+        width: 40
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45376d39ffb54b50a701c8a5c63cbad
+      internalID: -1082497400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 126
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b6480ef28e4e76835b721b683ce51
+      internalID: 1101510097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_31
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 126
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed2ff3bcb744c6a9862a96fd1a9c79
+      internalID: 1146153211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 95
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f41f4d96c284f10bb3beb49fc20953
+      internalID: -1374664611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 95
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c47f3bec5a5547a5a7b5e976bf307e1
+      internalID: -139416487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 62
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7057376c232414da82fee32656bc67
+      internalID: 292625041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 62
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b4a92fdbec14706a4a3ac6d085c570
+      internalID: 1798868352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927e229ef9d4248bd842254127056c32
+      internalID: 259665201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 29
+        width: 78
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee89ea989e1d44155960563d0e95987c
+      internalID: 1192991822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swampDecoration_2_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 29
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea03b44d05cb4db08090a7b712063de
+      internalID: 1149965154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +945,46 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      swampDecoration_2_4: 1212369870
+      swampDecoration_2_12: -957967926
+      swampDecoration_2_9: -10304704
+      swampDecoration_2_16: 1008626481
+      swampDecoration_2_13: 1200525016
+      swampDecoration_2_22: -374385225
+      swampDecoration_2_20: -76202672
+      swampDecoration_2_11: -1588126028
+      swampDecoration_2_17: 1444151446
+      swampDecoration_2_2: 205046348
+      swampDecoration_2_18: -873447226
+      swampDecoration_2_33: -139416487
+      swampDecoration_2_36: 259665201
+      swampDecoration_2_23: -1717326506
+      swampDecoration_2_8: -1842640355
+      swampDecoration_2_0: 451058647
+      swampDecoration_2_15: 223267870
+      swampDecoration_2_29: -1082497400
+      swampDecoration_2_27: 901116136
+      swampDecoration_2_34: 292625041
+      swampDecoration_2_24: -613548523
+      swampDecoration_2_28: 1501058013
+      swampDecoration_2_6: 289169982
+      swampDecoration_2_14: -1101793827
+      swampDecoration_2_32: -1374664611
+      swampDecoration_2_26: 1238848608
+      swampDecoration_2_19: 191798268
+      swampDecoration_2_37: 1192991822
+      swampDecoration_2_10: -220588383
+      swampDecoration_2_38: 1149965154
+      swampDecoration_2_5: -140616800
+      swampDecoration_2_3: -2138622715
+      swampDecoration_2_25: 2109642965
+      swampDecoration_2_31: 1146153211
+      swampDecoration_2_21: -1654271587
+      swampDecoration_2_1: -183562801
+      swampDecoration_2_7: 912272639
+      swampDecoration_2_35: 1798868352
+      swampDecoration_2_30: 1101510097
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
