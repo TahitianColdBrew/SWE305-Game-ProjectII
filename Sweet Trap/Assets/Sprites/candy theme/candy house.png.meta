@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,2296 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: candy house_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 680
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f49170e11281c04584d27478be5a454
+      internalID: -1980275501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 680
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d338a2bf9b3f2a45a05914849ce36fb
+      internalID: 335833639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 675
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718aa533f24a0f46a7772385383b057
+      internalID: 1415009445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 673
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d7e391e2b86c41bbf07d9f44ff97c
+      internalID: -513470746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 676
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c50d3203cf6d408b8e69444a1afca
+      internalID: 10432123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 671
+        width: 144
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192aeb3274b9864f881861fa2721d02
+      internalID: 323342430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 625
+        width: 120
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d6015bc0f5e754da66d850bdc794ac
+      internalID: -726322275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0683414490028f74dac27dad3186018b
+      internalID: -253149813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 574
+        width: 197
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86705b93407d7e47a97105567181e4b
+      internalID: -840247027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 624
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98bc1fc884a2043a36ddc57051ae17
+      internalID: -726256388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 563
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8fa38e953348458b7c7a29b2de520
+      internalID: -1186539114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 624
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c146d6cb0c664b8a30a16ad971f62
+      internalID: -916492323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 623
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc56301119a234f8e602747843d204
+      internalID: 1476207814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 622
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd59ea0e0c45f04f8607e112fdf383f
+      internalID: 1911529433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 624
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c065033fa2d1d41b930baad133231e
+      internalID: 253539232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 624
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cb4f2c819f950479844f7cd2f64393
+      internalID: 1061057738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 583
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca153273abaa194595c3c615d9b609d
+      internalID: 990584192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 583
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb7d841271008541b3158cf8d227ff3
+      internalID: -468358429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 564
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858692eddb472074692a592c56e3870e
+      internalID: 528654542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 563
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c25b6cfb0200409efb86c785d403e
+      internalID: -1186573555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_20
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 577
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a01f4e7c2324c41bc51f976cda1186
+      internalID: 1747663610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 577
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0b38a789559674daf57cccf3cb36fc
+      internalID: -1965107563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_22
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 576
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616d34c4c3d457449653459649f7ead
+      internalID: -523341665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 484
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb64f189d4dad9b468592aae4cc236c6
+      internalID: 1044746641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 534
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087215e85f1421e45a11e768c734b695
+      internalID: 574021560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 532
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455f5d5795ee1646b643ad3936bbf3e
+      internalID: 517967352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 534
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8513cebc64ee3464c9e9bb29ee4d2c61
+      internalID: 1715071388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 529
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecf57ea93069d5448ed6a0f8fcb7252
+      internalID: -294031106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_28
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 528
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684b129e5a5cc348b0254fa17e0f618
+      internalID: -960239585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 528
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f015052b51261f74d924662314a013d3
+      internalID: -1423224538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_30
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 528
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d0ef8466b81247bde3929e5399a0c
+      internalID: 856695357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 482
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888adb5756c9ad49bc566c62808fed6
+      internalID: -870091227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d2e01dfd9f81548a0fe1045c56217e
+      internalID: 1068429474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455a4be5245dea4daf97ce565a386f2
+      internalID: -599458940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e8dc95a141214da15dedf296a1cfd
+      internalID: 1323876908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa3bc29daa75f4689c77eb86b1885f
+      internalID: 1482080752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 480
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffdde5d95374e64791a35198f9f78e8
+      internalID: -685758369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab64f53f07f91d44a11b0a32e990f3a
+      internalID: -181137891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_38
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 480
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b4af41e1fd4bb4ea50d3fd31074842
+      internalID: 552532013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_39
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f4e442a2da4644b14c55a4ef2b621
+      internalID: -430655488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee3042417a6ff49968bb0b7fd0dce1
+      internalID: 2110386316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6eeba4a9d7c404f8498189de66f967
+      internalID: -451823002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_42
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 480
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d15351dcdd904f9977ae5261e6ff3
+      internalID: 802786987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 433
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44e38a599e4f5748ab324aee1dea9b7
+      internalID: 1068750764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 391
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81275f7bcd982a54cbea9ec05955dbd5
+      internalID: -617922915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_45
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 433
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5918e3a01b73c45826e23e15aecc72
+      internalID: -1508368332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 436
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01bacc39e81df45ae7e7c72ffdaa2f
+      internalID: -1403496069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 432
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814406ee03134c446bfdc06a2f63413e
+      internalID: 288788916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abbdcf4a98ebb14a87a43591769a57d
+      internalID: -918682521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896efee9a61ab444937e68c350fa8df
+      internalID: -2062352493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 432
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be4da1380c3e1240b5772d3eaf60996
+      internalID: -40168782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_51
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 432
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c39f422d13f8419e8c730c94851c5
+      internalID: 1102729223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_52
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 432
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a15914284510241a11a4fb0b7e960c
+      internalID: -381230854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_53
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 432
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c772602228fdf224ba6abfe33a374443
+      internalID: 911979546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_54
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 432
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c3e63bb5f2d7f48b74e57b6f86a98a
+      internalID: 1446975044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 249
+        width: 96
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c02a9d94e9bcfa4a9a777d369ef9039
+      internalID: 1009221973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 247
+        width: 91
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a155ea0e330f41f48b5f9fb6b94c80bd
+      internalID: 82998474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_57
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 389
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682439100b7d3854e8f4bc1d613e65ff
+      internalID: 1645803230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 384
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a67df7637d554086acefe30cccfb8
+      internalID: 1283010958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5366f7d88be0e9e49ad9c13b22dc2669
+      internalID: -90878706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298663f07a4cf5b4fb056b51a6983125
+      internalID: -403725004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_61
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 384
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade7a39c8f65c564281fae6bb4ec2347
+      internalID: -1503191125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_62
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 384
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac6c9e6dd136614ba810e8a2a6b1665
+      internalID: 1328816779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_63
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 384
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded0843073001549b911350667c146f
+      internalID: -1734167305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_64
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 384
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19129347e6c96ce45995672e04bbd4b2
+      internalID: -668038822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_65
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 384
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2856dd9242fe74683e9c7227490663
+      internalID: -1239399635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e43a1aa665024f8c8c07e55e9e7c0
+      internalID: 1302021501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 341
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31d575a19d54de41ad99919723618a2
+      internalID: 554234181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 335
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a923fc394de7746a756f85be61c6ac
+      internalID: 481191599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 335
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f0b780904a444188874994212039a
+      internalID: 147174986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 335
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d436d1fbd13b419faaa84e1f3ba93
+      internalID: 1454497036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_71
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 335
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d877ba2ae319704291735fb438d1c56
+      internalID: 2002175764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_72
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 240
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e52af37c26bb1b4ca5ecb52f0fbc95a
+      internalID: 51783871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_73
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 336
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a68e3af1683b8246a67cbc13029d9a6
+      internalID: -283606060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_74
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 336
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26986e21d70d9d4fa0b78fd71ba763f
+      internalID: 1563718137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_75
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 336
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ef90452ee5598449f5f5338561e93c
+      internalID: -617290135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_76
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 336
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682f694da45356148887623b5a38d077
+      internalID: -1204973911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_77
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 336
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94045b0fc236d3d428f43edc23607f59
+      internalID: -1414854871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc1027973cc6c4f9bec9334537cc3e
+      internalID: 191480663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_79
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 240
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae17c9fc5ecbe60428ea8e1b57f6b2a3
+      internalID: 266783344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 315
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162e1b10437791149a19646fde88f6fa
+      internalID: 1500202577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_81
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 238
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d1bb2c38f614041ac1bb7f3a9facf5
+      internalID: -1069100010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_82
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 238
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c158af867c0a542b0b14b46cd2bad6
+      internalID: 997976629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d693caa3e82c771489772d69d2439ec5
+      internalID: -1505430454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_84
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48b200b72d26043b8b49327ed1b1a6
+      internalID: -1109743993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_85
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 240
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e65c2de81d8147b0b121ab7507ae9
+      internalID: 1119283797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec2d9d9bf7fb31488c7c20aa5d2fc32
+      internalID: -328129487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 239
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5690ea966479004b8c55cd5b1b329a9
+      internalID: -224461906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 151
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505344093957f046ad84612f28ad3fd
+      internalID: -1028828571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_89
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 218
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d2049adefb59f479d744a2d7d76dff
+      internalID: -1683008112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 145
+        width: 240
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307ea802b8421e4c8787f5106638c05
+      internalID: -291752924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_91
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 196
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c770f0fa3c93d45a367ff37ff33fbb
+      internalID: 563645881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_92
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 195
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80efd2c5f7cfc1148989273535ae7c6c
+      internalID: -1966213564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_93
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 195
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182dd95590a5d804bb3fd62a1248b90c
+      internalID: -34491678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_94
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 170
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5de40663b8072469200225347ecc7f
+      internalID: -885797085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_95
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 21
+        width: 117
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d61d276ea3e0f43b7b30f96d36ae0e
+      internalID: -2125035225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 147
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43d8e492352177478b3867e988e4a90
+      internalID: -1690333647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_97
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 37
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fcdc00623c38e41bee350ea4547eea
+      internalID: 1817708265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 240
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3eccc5e6133554ca812eb1ca150e2d
+      internalID: -1689486644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_99
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 193
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbadfafc1515d4eb2ffb032cdf4c9d
+      internalID: 400578689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_100
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d99da1a1aeb7e45b9fe7ddd7170bae
+      internalID: -91796079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_101
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 190
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a54d8041ae5f49be72273f6313d6d
+      internalID: 1448882642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_102
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 739
+        width: 19
+        height: 15
+      alignment: 9
+      pivot: {x: -7.8153534, y: 1.5437826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6eb106e686dfb49bfb4942bb7a027e
+      internalID: -265581889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 669
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6300b1787852992489fbdfccf7925c8c
+      internalID: 554169382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_104
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 671
+        width: 190
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab801d9c10abcd54a8776f2e12371213
+      internalID: -129575272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_105
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 746
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55902bb3af0347a41bf60eae4713d6c9
+      internalID: -2085593358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_106
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 721
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c87aba4dbc9ea4b93676654b7fd201
+      internalID: 360870449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_107
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 721
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b95718c87862d049b95fa9bb2b90c43
+      internalID: -1436787530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy house_108
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 736
+        width: 19
+        height: 18
+      alignment: 9
+      pivot: {x: -8.826679, y: 1.9233398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd75d060efe05448abae2866f27b3b
+      internalID: 1572310417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +2403,116 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      candy house_53: 911979546
+      candy house_55: 1009221973
+      candy house_10: -1186539114
+      candy house_65: -1239399635
+      candy house_43: 1068750764
+      candy house_105: -2085593358
+      candy house_26: 1715071388
+      candy house_62: 1328816779
+      candy house_89: -1683008112
+      candy house_96: -1690333647
+      candy house_0: -1980275501
+      candy house_104: -129575272
+      candy house_52: -381230854
+      candy house_20: 1747663610
+      candy house_27: -294031106
+      candy house_18: 528654542
+      candy house_4: 10432123
+      candy house_39: -430655488
+      candy house_88: -1028828571
+      candy house_61: -1503191125
+      candy house_70: 1454497036
+      candy house_97: 1817708265
+      candy house_9: -726256388
+      candy house_60: -403725004
+      candy house_78: 191480663
+      candy house_1: 335833639
+      candy house_106: 360870449
+      candy house_46: -1403496069
+      candy house_12: 1476207814
+      candy house_11: -916492323
+      candy house_38: 552532013
+      candy house_80: 1500202577
+      candy house_48: -918682521
+      candy house_23: 1044746641
+      candy house_64: -668038822
+      candy house_31: -870091227
+      candy house_73: -283606060
+      candy house_82: 997976629
+      candy house_90: -291752924
+      candy house_84: -1109743993
+      candy house_57: 1645803230
+      candy house_103: 554169382
+      candy house_40: 2110386316
+      candy house_107: -1436787530
+      candy house_22: -523341665
+      candy house_17: -468358429
+      candy house_24: 574021560
+      candy house_44: -617922915
+      candy house_28: -960239585
+      candy house_47: 288788916
+      candy house_29: -1423224538
+      candy house_5: 323342430
+      candy house_56: 82998474
+      candy house_87: -224461906
+      candy house_19: -1186573555
+      candy house_81: -1069100010
+      candy house_3: -513470746
+      candy house_58: 1283010958
+      candy house_91: 563645881
+      candy house_59: -90878706
+      candy house_99: 400578689
+      candy house_67: 554234181
+      candy house_21: -1965107563
+      candy house_66: 1302021501
+      candy house_72: 51783871
+      candy house_93: -34491678
+      candy house_6: -726322275
+      candy house_76: -1204973911
+      candy house_98: -1689486644
+      candy house_101: 1448882642
+      candy house_69: 147174986
+      candy house_85: 1119283797
+      candy house_8: -840247027
+      candy house_45: -1508368332
+      candy house_51: 1102729223
+      candy house_2: 1415009445
+      candy house_7: -253149813
+      candy house_33: -599458940
+      candy house_25: 517967352
+      candy house_16: 990584192
+      candy house_34: 1323876908
+      candy house_63: -1734167305
+      candy house_68: 481191599
+      candy house_100: -91796079
+      candy house_77: -1414854871
+      candy house_30: 856695357
+      candy house_35: 1482080752
+      candy house_86: -328129487
+      candy house_36: -685758369
+      candy house_71: 2002175764
+      candy house_13: 1911529433
+      candy house_49: -2062352493
+      candy house_108: 1572310417
+      candy house_50: -40168782
+      candy house_79: 266783344
+      candy house_14: 253539232
+      candy house_32: 1068429474
+      candy house_42: 802786987
+      candy house_54: 1446975044
+      candy house_15: 1061057738
+      candy house_41: -451823002
+      candy house_37: -181137891
+      candy house_92: -1966213564
+      candy house_94: -885797085
+      candy house_95: -2125035225
+      candy house_74: 1563718137
+      candy house_75: -617290135
+      candy house_83: -1505430454
+      candy house_102: -265581889
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
