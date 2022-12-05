@@ -225,12 +225,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 158044761}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.29, y: -1.49, z: 0}
+  m_LocalPosition: {x: -0.54, y: -0.22, z: 0}
   m_LocalScale: {x: 0.4495419, y: 0.4495419, z: 0.4495419}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &158044765
 BoxCollider2D:
@@ -270,6 +270,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46bf5c237db29934c99ff12d9e5d0337, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumpableGround:
+    serializedVersion: 2
+    m_Bits: 64
   dirX: 0
   moveSpeed: 7
   jumpForce: 14
@@ -307,7 +310,7 @@ GameObject:
   - component: {fileID: 915051795}
   - component: {fileID: 915051794}
   - component: {fileID: 915051793}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2614,7 +2617,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1091022500}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.20999861, y: -0.060000062, z: -10}
+  m_LocalPosition: {x: -0.9000001, y: -0.07000017, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3110,7 +3113,7 @@ Transform:
   - {fileID: 915051790}
   - {fileID: 1876443133}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1442470864
 GameObject:
