@@ -10,13 +10,12 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer sprite;
     private Animator anim;
 
-    [SerializeField] private LayerMask jumpableGround;
-
     [SerializeField] private float dirX = 0f;
     [SerializeField]private float moveSpeed = 2f;
     [SerializeField] private float jumpForce = 7f;
+    [SerializeField] private LayerMask jumpableGround;
 
-    private enum MovementState {idle, run, jump }
+    private enum MovementState {idle, run, jump}
 
     // Start is called before the first frame update
     private void Start()
@@ -33,7 +32,7 @@ public class PlayerMovement : MonoBehaviour
         dirX = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(dirX * moveSpeed, rb.velocity.y);
 
-        if (Input.GetButtonDown("Jump") && IsGrounded()) 
+        if (Input.GetButtonDown("Vertical") && IsGrounded()) 
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
