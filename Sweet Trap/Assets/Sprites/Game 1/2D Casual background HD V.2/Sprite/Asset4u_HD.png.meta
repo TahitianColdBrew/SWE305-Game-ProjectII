@@ -1237,9 +1237,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1260
-        y: 271
-        width: 210
-        height: 344
+        y: 2
+        width: 212
+        height: 613
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,9 +1258,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1050
-        y: 273
+        y: 0
         width: 209
-        height: 342
+        height: 615
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,9 +1279,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 841
-        y: 271
-        width: 207
-        height: 344
+        y: 2
+        width: 208
+        height: 610
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1300,12 +1300,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 630
-        y: 269
-        width: 208
-        height: 346
+        y: 246
+        width: 209
+        height: 353
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 6}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1321,12 +1321,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 421
-        y: 271
+        y: 247
         width: 208
-        height: 344
+        height: 352
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 6, y: 0, z: 4, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1342,9 +1342,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 212
-        y: 271
+        y: 7
         width: 206
-        height: 350
+        height: 616
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1363,9 +1363,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 273
+        y: 25
         width: 212
-        height: 367
+        height: 616
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2146,10 +2146,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Asset4u_HD_77: 21300154
+      Asset4u_HD_5: 21300010
       Asset4u_HD_68: 21300136
-      Asset4u_HD_64: 21300128
+      Asset4u_HD_80: 21300160
       Asset4u_HD_58: 21300116
+      Asset4u_HD_39: 21300078
       Asset4u_HD_60: 21300120
       Asset4u_HD_19: 21300038
       Asset4u_HD_73: 21300146
@@ -2164,7 +2165,6 @@ TextureImporter:
       Asset4u_HD_36: 21300072
       Asset4u_HD_4: 21300008
       Asset4u_HD_84: 21300168
-      Asset4u_HD_21: 21300042
       Asset4u_HD_35: 21300070
       Asset4u_HD_27: 21300054
       Asset4u_HD_42: 21300084
@@ -2185,9 +2185,9 @@ TextureImporter:
       Asset4u_HD_15: 21300030
       Asset4u_HD_26: 21300052
       Asset4u_HD_3: 21300006
+      Asset4u_HD_56: 21300112
       Asset4u_HD_51: 21300102
       Asset4u_HD_18: 21300036
-      Asset4u_HD_56: 21300112
       Asset4u_HD_55: 21300110
       Asset4u_HD_72: 21300144
       Asset4u_HD_46: 21300092
@@ -2224,12 +2224,12 @@ TextureImporter:
       Asset4u_HD_23: 21300046
       Asset4u_HD_30: 21300060
       Asset4u_HD_69: 21300138
-      Asset4u_HD_5: 21300010
       Asset4u_HD_66: 21300132
       Asset4u_HD_78: 21300156
       Asset4u_HD_76: 21300152
-      Asset4u_HD_39: 21300078
-      Asset4u_HD_80: 21300160
+      Asset4u_HD_77: 21300154
+      Asset4u_HD_21: 21300042
+      Asset4u_HD_64: 21300128
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

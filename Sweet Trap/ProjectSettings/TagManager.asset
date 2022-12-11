@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Coin
   - Trap
+  - Food
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -42,6 +44,9 @@ TagManager:
   m_SortingLayers:
   - name: Background
     uniqueID: 3390552181
+    locked: 0
+  - name: Background Decor
+    uniqueID: 1866476641
     locked: 0
   - name: Default
     uniqueID: 0
