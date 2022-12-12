@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5174499051790195924
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7224539520549513906, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: anim
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513906, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: enemy
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513906, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513906, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: idleDuration
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 342.7314
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.024002224
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08673745
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513907, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224539520549513909, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}
+      propertyPath: m_Name
+      value: Witch Patrol Ranged
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9fcc58626c362eb49a01d75e4a134447, type: 3}

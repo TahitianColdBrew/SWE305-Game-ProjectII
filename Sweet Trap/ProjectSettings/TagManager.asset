@@ -6,8 +6,16 @@ TagManager:
   tags:
   - Coin
   - Trap
+<<<<<<< Updated upstream
   - Food
   - Water
+=======
+  - Ground
+  - Enemy
+  - Platform
+  - FallDetector
+  - Checkpoint
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -16,11 +24,11 @@ TagManager:
   - Water
   - UI
   - Ground
+  - Wall
   - 
   - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
@@ -53,4 +61,13 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 2896446821
+    locked: 0
+  - name: Foreground
+    uniqueID: 1780040213
+    locked: 0
+  - name: Player
+    uniqueID: 1682364679
+    locked: 0
+  - name: Enemy
+    uniqueID: 104492821
     locked: 0
